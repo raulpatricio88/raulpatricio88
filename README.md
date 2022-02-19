@@ -14,6 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: I like working listening to fast music.
 
+![This is me](https://github.com/raulpatricio88/raulpatricio88/blob/main/perfil.jpg)
+```javascript
+const KeepCoding = {
+code: [
+"BLOG TÉCNICO SOBRE DESARROLLO MOBILE","DESARROLLO WEB",
+"BIG DATA & MACHINE LEARNING",
+"DEVOPS",
+"CIBERSEGURIDAD",
+"BLOCKCHAIN"],
+technologies:[
+"Cursos Online",
+"Webbinars",
+"BootCamps",
+]
+},
+homePage: "https://justcodeit.io/"
+};
+``````
+
 Here's my resume:
 
 Raul Patricio Escobar Mella.
