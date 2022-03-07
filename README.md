@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on being an Independent DevOps consultant programmer while I'm searching for a job.
+- 🔭 I’m currently working as a programmer.
 - 🌱 I’m currently learning GitHub.
 - 👯 I’m looking to collaborate on anything where I could help study and get help for studying.
 - 🤔 I’m looking for help with the most important coding technologies to get a good job.
