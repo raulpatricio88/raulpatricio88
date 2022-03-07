@@ -35,6 +35,8 @@ homePage: "https://justcodeit.io/"
 
 Here's my resume:
 
+Skills: Red Hat Enterprise Linux (Kubernetes, Openshift, 3scale), Maven, Spring boot, GIT, Java, Oracle sql, Python, Scriptcase, CCNA.
+
 Raul Patricio Escobar Mella.
 ID: 16.611.316-4
 Address: Mar de Drake 259, Pudahuel, Santiago, Chile.
@@ -46,13 +48,8 @@ I’m a highly skilled Software Developer and Network Manager with over 4 years 
 
 Education:
 
-- Network Management at Duoc Uc Universidad Católica Alonso de Ovalle (completed)
-
-Knowledge acquired: Red Hat Enterprise Linux (Openshift, 3Scale, Ansible, Kubernetes) , CCNA I - IV, Packet Tracer, Windows Server, Hardware/Software Troubleshooting.                                                                                                          
+- Network Management at Duoc Uc Universidad Católica Alonso de Ovalle (completed)                                                                                                          
 - Programmer Analyst at Duoc Uc Universidad Católica Maipu 2022 (currently studying last year)
-
-Knowledge acquired: Java, Spring boot, Oracle SQL, Python 3, Scriptcase, Joomla, C++, Git.
-- Advanced English Classes with teacher Sebastian Carrasco Zuleta for preparing TOEIC, CELPIP Exams.
 
 Job History:
 
